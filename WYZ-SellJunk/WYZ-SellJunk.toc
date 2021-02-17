@@ -1,0 +1,9 @@
+## Interface: 90002
+## Title: WYZ Sell Junk
+## Title-zhCN: WYZ 自动出售
+## Notes: WYZ - Sell Junk
+## Author: Wang Yuzhi
+## Version: 1.1
+## RequiredDeps: WYZ-Core
+
+WYZ-SellJunk.lua

@@ -1,0 +1,9 @@
+## Interface: 90002
+## Title: WYZ Auto Repair
+## Title-zhCN: WYZ 自动修理
+## Notes: WYZ - Auto Repair
+## Author: Wang Yuzhi
+## Version: 1.1
+## RequiredDeps: WYZ-Core
+
+WYZ-AutoRepair.lua

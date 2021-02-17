@@ -1,0 +1,8 @@
+## Interface: 90002
+## Title: WYZ Core
+## Title-zhCN: WYZ 核心
+## Notes: WYZ
+## Author: Wang Yuzhi
+## Version: 1.1
+
+WYZ-Core.lua
