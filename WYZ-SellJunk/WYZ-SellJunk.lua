@@ -8,7 +8,6 @@ local function OnEvent(self, event, ...)
             end
         end
     end
-    
 end
 
 local f = CreateFrame("Frame")
